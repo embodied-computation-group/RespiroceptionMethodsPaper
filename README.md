@@ -23,6 +23,8 @@ This repository contains all needed code to run the RRST itself, as well as asso
 # Figures
 
 ## Figure 1 - The Respiratory Resistance Sensitivity Task - Apparatus and Design
+<img src="/figs/figure_1.png" align="center" alt="metadPy" height="600" HSPACE=30>
+
 ## Figure 2 - Respiratory Psychophysical Functions
 <img src="/figs/figure_2.png" align="center" alt="metadPy" height="600" HSPACE=30>
 
