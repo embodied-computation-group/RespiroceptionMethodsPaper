@@ -3,7 +3,8 @@
 This repository contains data, code and supporting documents for the manuscript:
 
 The Respiratory Resistance Sensitivity Task: An Automated Method for Quantifying Respiratory Interoception and Metacognition
-Niia Nikolova, Olivia Harrison, Sophie Toohey,  Malthe Brændholt, Nicolas Legrand, Camile Correa, Melina Vejlø, Francesca Fardo, Micah Allen
+Niia Nikolova, Olivia K Harrison, Sophie Toohey, Malthe Braendholt, Nicolas Legrand, Camile C Correa, Melina Vejlo, Francesca Fardo, Micah Allen
+bioRxiv 2021.10.14.464418; doi: https://doi.org/10.1101/2021.10.14.464418
 
 # Data
 
