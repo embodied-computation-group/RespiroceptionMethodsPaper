@@ -28,5 +28,5 @@ Niia Nikolova, Olivia Harrison, Sophie Toohey,  Malthe Brændholt, Nicolas Legra
 ## Figure 5 - Respiratory Metacognition
 <img src="/figs/figure_5.png" align="center" alt="metadPy" height="600" HSPACE=30>
 
-## Figure 6 - Physiology
+## Figure 6 - Stimulus Averiseness and other Symptoms
 <img src="/figs/figure_6.png" align="center" alt="metadPy" height="400" HSPACE=30>
