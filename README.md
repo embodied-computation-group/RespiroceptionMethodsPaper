@@ -12,3 +12,4 @@ Niia Nikolova, Olivia Harrison, Sophie Toohey,  Malthe Brændholt, Nicolas Legra
 
 
 # Figures
+<img src="/figs/figure_2.png" align="center" alt="metadPy" height="230" HSPACE=30>
