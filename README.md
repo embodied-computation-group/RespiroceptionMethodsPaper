@@ -23,21 +23,21 @@ This repository contains all needed code to run the RRST itself, as well as asso
 # Figures
 
 ## Figure 1 - The Respiratory Resistance Sensitivity Task - Apparatus and Design
-<img src="/figs/figure_1.png" align="center" alt="metadPy" height="600" HSPACE=30>
+<img src="/figs/figure_1.png" align="center" alt="f1" HSPACE=30>
 
 ## Figure 2 - Respiratory Psychophysical Functions
-<img src="/figs/figure_2.png" align="center" alt="metadPy" height="600" HSPACE=30>
+<img src="/figs/figure_2.png" align="center" alt="f2" height="600" HSPACE=30>
 
 ## Figure 3 - Task Accuracy, Reaction Time, and Accuracy
-<img src="/figs/figure_3.png" align="center" alt="metadPy" height="600" HSPACE=30>
+<img src="/figs/figure_3.png" align="center" alt="f3" height="600" HSPACE=30>
 
 
 ## Figure 4 - Staircase Convergence and Reliability
-<img src="/figs/figure_4.png" align="center" alt="metadPy" height="600" HSPACE=30>
+<img src="/figs/figure_4.png" align="center" alt="f4" height="600" HSPACE=30>
 
 
 ## Figure 5 - Respiratory Metacognition
-<img src="/figs/figure_5.png" align="center" alt="metadPy" height="600" HSPACE=30>
+<img src="/figs/figure_5.png" align="center" alt="f5" height="600" HSPACE=30>
 
 ## Figure 6 - Stimulus Averiseness and other Symptoms
-<img src="/figs/figure_6.png" align="center" alt="metadPy" height="400" HSPACE=30>
+<img src="/figs/figure_6.png" align="center" alt="f6" height="400" HSPACE=30>
