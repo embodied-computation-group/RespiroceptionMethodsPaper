@@ -18,7 +18,7 @@ https://github.com/embodied-computation-group/RespiroceptionMethodsPaper/tree/ma
 
 # Code
 
-This repository contains all needed code to run the RRST itself, as well as associated data preprocessing and analysis scripts. 
+This repository contains all needed code to run the RRST itself, as well as associated data preprocessing and analysis scripts. Parts of the code repository are still being uploaded and will be available in the coming days. 
 
 # Figures
 
