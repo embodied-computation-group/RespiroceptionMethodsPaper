@@ -13,5 +13,20 @@ Niia Nikolova, Olivia Harrison, Sophie Toohey,  Malthe Brændholt, Nicolas Legra
 
 # Figures
 
-## Figure 2
+## Figure 1 - The Respiratory Resistance Sensitivity Task - Apparatus and Design
+## Figure 2 - Respiratory Psychophysical Functions
 <img src="/figs/figure_2.png" align="center" alt="metadPy" height="600" HSPACE=30>
+
+## Figure 3 - Task Accuracy, Reaction Time, and Accuracy
+<img src="/figs/figure_3.png" align="center" alt="metadPy" height="600" HSPACE=30>
+
+
+## Figure 4 - Staircase Convergence and Reliability
+<img src="/figs/figure_4.png" align="center" alt="metadPy" height="600" HSPACE=30>
+
+
+## Figure 5 - Respiratory Metacognition
+<img src="/figs/figure_5.png" align="center" alt="metadPy" height="600" HSPACE=30>
+
+## Figure 6 - Physiology
+<img src="/figs/figure_6.png" align="center" alt="metadPy" height="600" HSPACE=30>
