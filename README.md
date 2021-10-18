@@ -6,7 +6,7 @@ https://www.biorxiv.org/content/10.1101/2021.10.14.464418v1
 
 Please cite as:
 
-Nikolova, N., Harrison, O. K., Toohey, S., Braendholt, M., Legrand, N., Correa, C. C., Vejlo, M., Fardo, F., & Allen, M. (2021). The Respiratory Resistance Sensitivity Task: An Automated Method for Quantifying Respiratory Interoception and Metacognition (p. 2021.10.14.464418). https://doi.org/10.1101/2021.10.14.464418
+>Nikolova, N., Harrison, O. K., Toohey, S., Braendholt, M., Legrand, N., Correa, C. C., Vejlo, M., Fardo, F., & Allen, M. (2021). The Respiratory Resistance Sensitivity Task: An Automated Method for Quantifying Respiratory Interoception and Metacognition (p. 2021.10.14.464418). https://doi.org/10.1101/2021.10.14.464418
 
 
 # Abstract
