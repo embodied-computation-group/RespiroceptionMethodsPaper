@@ -12,10 +12,11 @@ function experimentLauncher()
 % and is therefore set in main.m (~line 78).
 %
 % Versions:
-%      1-2      Task format to use for Visceral Mind Project, Cohort 2, Fall 2020
+%      1-2      Task for Visceral Mind Project, Cohort 2, Fall 2020
 %      2-1      Version 2. Device update with new driver and screw. Change in motor step (& stim level) values 
-%      2-2      Variation of 2-1, but using PAL PEST staircase method
-%      instead of n-down. Psi single staircase
+%      2-2      Tasl for Visceral Mind Project 2021, Main task uses Psi single staircase. Includes variation of 2-1, 
+%               but using PAL PEST staircase method
+%               instead of n-down as an option. Psi single staircase 
 % ======================================================
 %
 % Run from 'RRS_2-2' directory
@@ -24,7 +25,7 @@ function experimentLauncher()
 % ======================================================
 %
 % Niia Nikolova
-% Last edit: 07/12/2020
+% Last edit: 27/10/2021
 
 
 %% Initial settings
@@ -32,12 +33,7 @@ function experimentLauncher()
 close all; clc; clear all;
 
 devFlag = 0;                % optional flag. Set to 1 when developing the task
-
-% VMP Cohorts -  Which room was the task run in? 
-% 1 - 7T testing booth
-% 2 - Prisma testing booth
-% 3 - Behaviour room (MEG wing)
-vars.location = 1;          
+      
 vars.exptName = 'RRS';
 vars.exptVers = '_2-2';
 
@@ -107,8 +103,7 @@ end
 main(vars, scr);
 
 if ~devFlag % if we're testing
-    % Copy data to aux drive, and delete local copy
-    %copy2VMPaux(vars.subNo);
+    % Things to do to clean up if we're testing go here (e.g. copy data to network drive for backup)
 end
 
 % Clean up, reset paths
