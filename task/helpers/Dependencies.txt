@@ -1,0 +1,38 @@
+Respiratory Resistance Sensitivity Task
+
+experimentLauncher.m
+main.m
+loadParams.m
+respiroceptionTutorial.m
+
+moveResp.m
+moveResp2ITIpos.m
+moveResp2NoLoad.m
+resetResp.m
+scale2motorstep.m
+setupResp.m
+
+drawExpandingRing.m
+getConfidence.m
+getResponse.m
+playSound.m
+
+displayConfig.m
+experimentEnd.m
+keyConfig.m
+
+SetupRand.m
+angle2pix.m
+struct2csv.m
+randInRange.m
+
+subjectReportRRS.m
+
+Palamedes (in ./helpers)
+
+Psychtoolbox:
+Psychtoolbox-3-PTB_Beta-2019-08-07_V3.0.16
+
+Tested on:
+Windows 10
+MATLAB (R2020a), with Statistics and Machine Learning Toolbox v11.4
