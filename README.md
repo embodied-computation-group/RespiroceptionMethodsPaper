@@ -18,7 +18,7 @@ https://github.com/embodied-computation-group/RespiroceptionMethodsPaper/tree/ma
 
 # Code
 
-This repository contains all needed code to run the RRST itself, as well as associated data preprocessing and analysis scripts. Parts of the code repository are still being uploaded and will be available in the coming days. 
+This repository contains all needed code to run the RRST itself, as well as associated data preprocessing and analysis scripts.
 
 # Figures
 
@@ -51,3 +51,11 @@ This repository contains all needed code to run the RRST itself, as well as asso
 <img src="/figs/figure_6.png" align="center" alt="f6" height="400" HSPACE=30>
 
 >Figure 6: Task tolerance & subjective ratings. A) Plot depicting aversiveness ratings across all 10 blocks (timepoints) of testing. Mean aversiveness ratings after each block are shown in green, and the shaded gray area represents standard error of the mean (SEM). Each block comprised 20 trials, for a total testing time of approximately 45 minutes. Participants on average reported roughly 20% stimulus aversiveness (out of 100 total), which remains stable throughout the testing period. This indicates that the stimuli were mildly unpleasant and that extended testing time did not increase task adversity within these limits. B) Plot depicting mean dizziness, breathlessness and asthma symptoms across participants. Bar height represents mean ratings, error bars denote SEM, and gray circles show individual participants’ ratings. In general, participants showed low levels of these adverse effects following 1 full hour of testing, indicating good tolerability of the task. 
+
+
+
+# Device specifications and parts
+
+## May 2022
+We have made an update to the RRST appratus harware and software. An updated parts list for the device is available at: https://docs.google.com/spreadsheets/d/1Xm-xjyxZgqfn2RlGidUxHrNGNTMF7fd8MpfaUctbE9U/edit?usp=sharing
+The new version of the software (i.e., code for running the task) is available in ./task/RRS_3-0
