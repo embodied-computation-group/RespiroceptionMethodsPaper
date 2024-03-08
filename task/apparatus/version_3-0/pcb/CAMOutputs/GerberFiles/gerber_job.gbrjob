@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2023-08-18T06:40:39Z",
+        "GenerationSoftware": {
+            "Application": "Fusion 360 Electronics",
+            "Vendor": "Autodesk",
+            "Version": "9.7.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "Connection board v24"
+        },
+        "Owner": "Martin Jensen <snejbjerg@cfin.au.dk>",
+        "Size": {
+            "X": 107.95,
+            "Y": 43.18
+        }
+    }
+}
