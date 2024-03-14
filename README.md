@@ -57,5 +57,9 @@ This repository contains all needed code to run the RRST itself, as well as asso
 # Device specifications and parts
 
 ## May 2022
-We have made an update to the RRST appratus harware and software. An updated parts list for the device is available at: https://docs.google.com/spreadsheets/d/1Xm-xjyxZgqfn2RlGidUxHrNGNTMF7fd8MpfaUctbE9U/edit?usp=sharing
-The new version of the software (i.e., code for running the task) is available in ./task/RRS_3-0
+We have made an update to the RRST appratus harware and software. 
+An updated parts list for the device is available at: https://docs.google.com/spreadsheets/d/1Xm-xjyxZgqfn2RlGidUxHrNGNTMF7fd8MpfaUctbE9U/edit?usp=sharing
+New versions of the 3d printing files, PCB design, and code for running the task are available in ./task/RRS_3-0
+Instructions for setting up and running the RRST can be found here: https://docs.google.com/document/d/1KxjABdMcecnZfaXCnsQhJQzVfaNqk7DXVoDFSJKMT78/edit?usp=sharing
+(Note that these were created for data collection during the COVID pandemic, and therefore include more sanitisation procedures than would usually be necessary.) 
+
