@@ -61,5 +61,8 @@ We have made an update to the RRST appratus harware and software.
 An updated parts list for the device is available at: https://docs.google.com/spreadsheets/d/1Xm-xjyxZgqfn2RlGidUxHrNGNTMF7fd8MpfaUctbE9U/edit?usp=sharing
 New versions of the 3d printing files, PCB design, and code for running the task are available in ./task/RRS_3-0
 Instructions for setting up and running the RRST can be found here: https://docs.google.com/document/d/1KxjABdMcecnZfaXCnsQhJQzVfaNqk7DXVoDFSJKMT78/edit?usp=sharing
-(Note that these were created for data collection during the COVID pandemic, and therefore include more sanitisation procedures than would usually be necessary.) 
+(Note that these were created for data collection during the COVID pandemic, and therefore include more sanitisation procedures than would usually be necessary.)
+
+## November 2025 Update
+Fixed an issue where the expanding ring stimulus was not scaling correctly on high-resolution displays. The stimulus is now generated programmatically (`showExpandingRingGenerated.m`) instead of using a pre-rendered movie file, ensuring consistent sizing and timing across different screen resolutions. This change has been applied to both the main task and the tutorial. The original movie-based method (`showExpandingRing.m`) is preserved in the codebase but commented out in the calling scripts.
 
