@@ -316,7 +316,8 @@ try
             
             % Show expanding circle
             %[scr, vars] = drawExpandingRing(scr, vars);
-            [scr, vars] = showExpandingRing(scr, vars);
+            %[scr, vars] = showExpandingRing(scr, vars);
+            [scr, vars] = showExpandingRingGenerated(scr, vars);
             
             
         end% 2 Intervals

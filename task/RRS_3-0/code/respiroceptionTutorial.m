@@ -126,7 +126,8 @@ try
         end
         
         %[scr, vars] = drawExpandingRing(scr, vars);
-        [scr, vars] = showExpandingRing(scr, vars);
+        %[scr, vars] = showExpandingRing(scr, vars);
+        [scr, vars] = showExpandingRingGenerated(scr, vars);
         
     end
     
@@ -222,7 +223,8 @@ try
         end
         
         %[scr, vars] = drawExpandingRing(scr, vars);
-        [scr, vars] = showExpandingRing(scr, vars);
+        %[scr, vars] = showExpandingRing(scr, vars);
+        [scr, vars] = showExpandingRingGenerated(scr, vars);
         
     end
     
@@ -317,7 +319,8 @@ try
         end
         
         %[scr, vars] = drawExpandingRing(scr, vars);
-        [scr, vars] = showExpandingRing(scr, vars);
+        %[scr, vars] = showExpandingRing(scr, vars);
+        [scr, vars] = showExpandingRingGenerated(scr, vars);
     end
     
     % Show response prompt screen
@@ -402,7 +405,8 @@ try
             end
             
             %[scr, vars] = drawExpandingRing(scr, vars);
-            [scr, vars] = showExpandingRing(scr, vars);
+            %[scr, vars] = showExpandingRing(scr, vars);
+            [scr, vars] = showExpandingRingGenerated(scr, vars);
         end
         
         % Show response prompt screen
